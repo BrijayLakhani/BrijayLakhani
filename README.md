@@ -53,7 +53,7 @@
 - 🌱 Deepening my skills in **deep learning, data analytics, and statistical modeling**
 - 🔭 Exploring real-world **data-driven projects** and model building
 - 🎨 On the side, I built **Dotwise** — a calm, minimal mobile app, just for fun & creativity
-- 📫 Reach me at: **yatrawithmaps@gmail.com**
+- 📫 Reach me at: **brijaylakhani@gmail.com**
 
 ---
 
@@ -69,7 +69,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brijay-lakhani-bb8601244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/BrijayLakhani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:yatrawithmaps@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:brijaylakhani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
