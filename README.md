@@ -1,9 +1,9 @@
 # 👋 Welcome to My GitHub!
 
 <p align="center">
-  Hi there! I'm <b>Brijay Lakhani</b> — a passionate <b>mobile & app developer</b> and tech enthusiast.<br/>
-  Currently building <b>Dotwise</b> 🎯 — a calm, minimal mobile app focused on:<br/>
-  📱 Smooth UX &nbsp;•&nbsp; 🧠 Mindful design &nbsp;•&nbsp; ⚡ Fast performance &nbsp;•&nbsp; 🚀 Play Store ready
+  Hi there! I'm <b>Brijay Lakhani</b> — a <b>Machine Learning & Data Analytics</b> enthusiast.<br/>
+  Currently pursuing my <b>Master's in Machine Learning & Data Analytics</b> 🎓 at <b>Hochschule Aalen, Germany</b>.<br/>
+  📊 Data Analytics &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; 📈 Data Visualization &nbsp;•&nbsp; 🧠 Deep Learning
 </p>
 
 ---
@@ -11,26 +11,26 @@
 ## 🧠 Languages & Frameworks
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-## 📚 Libraries & Tools
+## 🤖 Machine Learning & Data Analytics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -38,9 +38,10 @@
 ## 🛠️ Tools & Platforms
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
@@ -48,9 +49,10 @@
 
 ## 🚀 What I'm Up To
 
-- 🔭 I'm currently building **Dotwise** — a mobile app live on the Play Store
-- 🌱 I'm learning **advanced Android (Kotlin + Compose)** and **Python for data**
-- 💡 I love crafting **smooth, minimal user experiences**
+- 🎓 Pursuing my **Master's in Machine Learning & Data Analytics** at **Hochschule Aalen**
+- 🌱 Deepening my skills in **deep learning, data analytics, and statistical modeling**
+- 🔭 Exploring real-world **data-driven projects** and model building
+- 🎨 On the side, I built **Dotwise** — a calm, minimal mobile app, just for fun & creativity
 - 📫 Reach me at: **yatrawithmaps@gmail.com**
 
 ---
